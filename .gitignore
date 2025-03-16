@@ -1,0 +1,57 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+.env
+
+# Firebase config
+android/app/google-services.json
+ios/GoogleService-Info.plist
+
+# React Native build files
+android/.gradle/
+android/app/build/
+android/build/
+android/.cxx/
+android/local.properties
+android/app/src/debug/
+android/app/src/release/
+ios/Pods/
+ios/build/
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/xcshareddata/
+ios/*.xcodeproj/*.pbxuser
+ios/.DS_Store
+
+# Metro bundler cache
+metro-cache/
+
+# Logs & Debugging
+debug.log
+*.log
+*.lock
+*.pid
+*.swp
+
+# Jest & Testing
+coverage/
+jest/
+__tests__/coverage/
+*.test.js
+*.spec.js
+*.snap
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+
+# Miscellaneous
+.env.local
+.env.development
+.env.production
