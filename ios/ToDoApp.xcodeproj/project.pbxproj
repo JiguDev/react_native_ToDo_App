@@ -11,6 +11,13 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		065B4F36197D4356B28509A9 /* HappySwirly-KVB7l.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70BB832C787F4871B1746485 /* HappySwirly-KVB7l.ttf */; };
+		C271973ED0CD4ADAB91F7321 /* InflateptxBase-ax3da.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F1C35A638C6F401A940B57FA /* InflateptxBase-ax3da.ttf */; };
+		33DDC3D3D6F44A89BD022AC8 /* InflateptxRegular-Wyg8V.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD1E070F0B524D088FD5D902 /* InflateptxRegular-Wyg8V.ttf */; };
+		F50125E9491E4E14BF3E9AC8 /* LoveDays-2v7Oe.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2FFCBBAF0C214409B4C594A8 /* LoveDays-2v7Oe.ttf */; };
+		6CA2000EB80040298252B6A4 /* ShadeBlue-2OozX.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 30477EC5B6C54EE99F8A4E00 /* ShadeBlue-2OozX.ttf */; };
+		023284B2DBAA4E20B5B11B24 /* ShinyCrystal-Yq3z4.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 839B4F75C3F14FC9BC8F7187 /* ShinyCrystal-Yq3z4.ttf */; };
+		D394FB8C08C345C58A4B69C1 /* PlayfulTime-BLBB8.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84456A94A03E4621A2977872 /* PlayfulTime-BLBB8.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +42,13 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ToDoApp/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ToDoApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		70BB832C787F4871B1746485 /* HappySwirly-KVB7l.ttf */ = {isa = PBXFileReference; name = "HappySwirly-KVB7l.ttf"; path = "../assets/fonts/HappySwirly-KVB7l.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F1C35A638C6F401A940B57FA /* InflateptxBase-ax3da.ttf */ = {isa = PBXFileReference; name = "InflateptxBase-ax3da.ttf"; path = "../assets/fonts/InflateptxBase-ax3da.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BD1E070F0B524D088FD5D902 /* InflateptxRegular-Wyg8V.ttf */ = {isa = PBXFileReference; name = "InflateptxRegular-Wyg8V.ttf"; path = "../assets/fonts/InflateptxRegular-Wyg8V.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2FFCBBAF0C214409B4C594A8 /* LoveDays-2v7Oe.ttf */ = {isa = PBXFileReference; name = "LoveDays-2v7Oe.ttf"; path = "../assets/fonts/LoveDays-2v7Oe.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		30477EC5B6C54EE99F8A4E00 /* ShadeBlue-2OozX.ttf */ = {isa = PBXFileReference; name = "ShadeBlue-2OozX.ttf"; path = "../assets/fonts/ShadeBlue-2OozX.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		839B4F75C3F14FC9BC8F7187 /* ShinyCrystal-Yq3z4.ttf */ = {isa = PBXFileReference; name = "ShinyCrystal-Yq3z4.ttf"; path = "../assets/fonts/ShinyCrystal-Yq3z4.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		84456A94A03E4621A2977872 /* PlayfulTime-BLBB8.ttf */ = {isa = PBXFileReference; name = "PlayfulTime-BLBB8.ttf"; path = "../assets/fonts/PlayfulTime-BLBB8.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +107,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				AE335C02562046AB85F6453B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -115,6 +130,21 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		AE335C02562046AB85F6453B /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				70BB832C787F4871B1746485 /* HappySwirly-KVB7l.ttf */,
+				F1C35A638C6F401A940B57FA /* InflateptxBase-ax3da.ttf */,
+				BD1E070F0B524D088FD5D902 /* InflateptxRegular-Wyg8V.ttf */,
+				2FFCBBAF0C214409B4C594A8 /* LoveDays-2v7Oe.ttf */,
+				30477EC5B6C54EE99F8A4E00 /* ShadeBlue-2OozX.ttf */,
+				839B4F75C3F14FC9BC8F7187 /* ShinyCrystal-Yq3z4.ttf */,
+				84456A94A03E4621A2977872 /* PlayfulTime-BLBB8.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -185,6 +215,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				065B4F36197D4356B28509A9 /* HappySwirly-KVB7l.ttf in Resources */,
+				C271973ED0CD4ADAB91F7321 /* InflateptxBase-ax3da.ttf in Resources */,
+				33DDC3D3D6F44A89BD022AC8 /* InflateptxRegular-Wyg8V.ttf in Resources */,
+				F50125E9491E4E14BF3E9AC8 /* LoveDays-2v7Oe.ttf in Resources */,
+				6CA2000EB80040298252B6A4 /* ShadeBlue-2OozX.ttf in Resources */,
+				023284B2DBAA4E20B5B11B24 /* ShinyCrystal-Yq3z4.ttf in Resources */,
+				D394FB8C08C345C58A4B69C1 /* PlayfulTime-BLBB8.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

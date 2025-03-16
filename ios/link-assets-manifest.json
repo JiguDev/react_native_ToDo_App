@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/HappySwirly-KVB7l.ttf",
+      "sha1": "22c808093cd96bff782726c749cb56b5ce28a3a2"
+    },
+    {
+      "path": "assets/fonts/InflateptxBase-ax3da.ttf",
+      "sha1": "a091f769790e12f2f002f69e07c0b0e1742c0e24"
+    },
+    {
+      "path": "assets/fonts/InflateptxRegular-Wyg8V.ttf",
+      "sha1": "e037e1026a081ff5c9d39761a0fc29a49f56e9f7"
+    },
+    {
+      "path": "assets/fonts/LoveDays-2v7Oe.ttf",
+      "sha1": "e25b176603d5d2b7ef84e8b3c610485d2e6f3e6e"
+    },
+    {
+      "path": "assets/fonts/PlayfulTime-BLBB8.ttf",
+      "sha1": "bb70e199bb71658453f006c767dfe7c859010eed"
+    },
+    {
+      "path": "assets/fonts/ShadeBlue-2OozX.ttf",
+      "sha1": "9fb3d69f599f55195cbf064af4534e133164755f"
+    },
+    {
+      "path": "assets/fonts/ShinyCrystal-Yq3z4.ttf",
+      "sha1": "9745e8a02fd66607ae088fb982a53486b9d53381"
+    }
+  ]
+}

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ToDoApp</string>
+    <string name="default_web_client_id" translatable="false">140461610855-jqh71u6f8nt61cts0o5f230c3s5lfutu.apps.googleusercontent.com</string>
 </resources>

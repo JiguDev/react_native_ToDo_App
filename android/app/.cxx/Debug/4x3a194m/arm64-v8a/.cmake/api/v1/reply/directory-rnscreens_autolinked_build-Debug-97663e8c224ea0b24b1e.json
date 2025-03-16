@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rnscreens_autolinked_build",
+		"source" : "/Users/rahulbhanushali/Desktop/Jigu/react_native_ToDo_App/node_modules/react-native-screens/android/src/main/jni"
+	}
+}

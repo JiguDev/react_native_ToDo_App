@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/rahulbhanushali/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/rahulbhanushali/.gradle/caches/8.12/transforms/120915743ec7f5109b7ec6e575eac52a/transformed/react-android-0.78.0-release/prefab",
+    "/Users/rahulbhanushali/Desktop/Jigu/react_native_ToDo_App/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/release/prefab",
+    "/Users/rahulbhanushali/.gradle/caches/8.12/transforms/29cfed04f710f44eb937054d0736ce7e/transformed/hermes-android-0.78.0-release/prefab",
+    "/Users/rahulbhanushali/.gradle/caches/8.12/transforms/5702e0a83b8fd3d19ff8bf2a468fa6c7/transformed/fbjni-0.7.0/prefab"
+  ]
+}
